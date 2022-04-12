@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tacoo99
-- 👀 I most often program in Java, I create GUI using JavaFX and JFoenix.
+- 👀 I most often program in Java and Javascript. I create GUI using Spring, Bootstrap and JavaFX.
 - 🌱 I’m currently studying on Politechnika Świętokrzyska in Kielce.
 - 📫 How to reach me?
 E-mail: koziolwojciech99@gmail.com
