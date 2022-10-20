@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m @Tacoo99<br>👀 I most often program in Java and Javascript. I create GUI using Spring, Bootstrap and JavaFX.<br>🌱 I’m currently studying on Politechnika Świętokrzyska in Kielce.<br>📫 How to reach me? E-mail: koziolwojciech99@gmail.com
+Hi, I’m @Tacoo99<br>👀 I most often program in Java and Javascript. I create GUI using Spring, Bootstrap and JavaFX.<br>🌱 
+👀 Now I'm creating mobile apps using React-Native, Expo and some additional framework's(e.g. for design).I’m currently studying on Politechnika Świętokrzyska in Kielce.<br>📫 How to reach me? E-mail: koziolwojciech99@gmail.com
 
 
 ## 🌐 Socials:
