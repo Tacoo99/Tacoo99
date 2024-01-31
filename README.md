@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Simple File Creator<br>🤝 I’m looking for help with Create User Folder<br>🌱 I’m currently learning Python and UI librares, eg. tkinter and ctkinter<br>💬 Ask me about automatization.<br>⚡ Fun fact - I started in C, moved on to Java, Javascript, react-native and ended up in Python.
+🔭 I’m currently working on MoviesApp<br>🤝I'm looking for help to improve QR_Scanner<br>🌱 I’m currently learning Typescript and UI frameworks <br>💬 Ask me about automatization.<br>⚡ Fun fact - I started in C, moved on to Java, Javascript, react-native Python and ended up in Typescript/React-Native.
 
 
 ## 🌐 Socials:
